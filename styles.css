@@ -1,0 +1,20 @@
+/* Reglas CSS para <body> */
+body {
+    font-family: 'DM Sans', sans-serif;
+    user-select: none;
+}
+
+/* Estilos globales light mode*/
+:root {
+    --alpha: transparent;             /* transparente */
+    --bg-ppal: #F7F7F7;             /* background principal */
+    --bg-sec: #FFFFFF;              /* background secundario */
+    --accent1: #5036f6;             /* Color del logo 1*/
+    --accent2: #e937b1;             /* Color del logo 2 */
+    --accent3: #7B3AEC;             /* Color medio del logo */
+    --titles: #1E1A30;              /* Títulos */
+    --pg: #5E5E5E;                  /* Párrafos */
+    --icons: #999999;               /* íconos */
+    --shadow: rgba(30, 26, 48, 0.1);/* Sombras sobre fondo blanco */
+    --line: #E6E6E6;                /* líneas separadoras */
+}
